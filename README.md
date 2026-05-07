@@ -30,6 +30,8 @@ The model is trained on a plant disease dataset with 38 classes, including:
 - Pepper diseases
 - Healthy plant categories
 
+Dataset Link: https://www.kaggle.com/datasets/emmarex/plantdisease
+
 ---
 
 ## Tech Stack
@@ -122,6 +124,8 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Mahtab Karami
+Mahtab Karami  
 
-GitHub: https://github.com/mahtabkarami
+GitHub: https://github.com/mahtabkarami  
+LinkedIn: https://www.linkedin.com/in/mahtab-karami-052658249?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Live Demo: https://plantdiseaseapp-5qvk8vpqecuwsjkgcc3mqn.streamlit.app/
