@@ -125,4 +125,5 @@ This project is licensed under the MIT License.
 Mahtab Karami
 
 GitHub: https://github.com/mahtabkarami
-Live Demo: https://plantdiseaseapp-5qvk8vpqecuwsjkgcc3mqn.streamlit.app/
+Live Demo:
+https://plantdiseaseapp-5qvk8vpqecuwsjkgcc3mqn.streamlit.app/
