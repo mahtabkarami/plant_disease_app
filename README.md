@@ -128,4 +128,3 @@ Mahtab Karami
 
 GitHub: https://github.com/mahtabkarami  
 LinkedIn: https://www.linkedin.com/in/mahtab-karami-052658249?utm_source=share_via&utm_content=profile&utm_medium=member_android
-Live Demo: https://plantdiseaseapp-5qvk8vpqecuwsjkgcc3mqn.streamlit.app/
