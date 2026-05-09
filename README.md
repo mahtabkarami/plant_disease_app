@@ -103,8 +103,10 @@ https://plantdiseaseapp-5qvk8vpqecuwsjkgcc3mqn.streamlit.app/
 
 ## Application Interface
 
-![UI Screenshot](plant_disease_app/Images/image1)
-
+![UI Screenshot1](images/image1)
+![UI_Screenshot2](images/image2)
+![UI_Screenshot3](images/image3)
+![UI_Screenshot4](images/image4)
 
 ---
 ## Workflow
