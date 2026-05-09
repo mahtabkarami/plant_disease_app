@@ -103,7 +103,7 @@ https://plantdiseaseapp-5qvk8vpqecuwsjkgcc3mqn.streamlit.app/
 
 ## Application Interface
 
-![UI Screenshot](Images/image1)
+![UI Screenshot](plant_disease_app/Images/image1)
 
 
 ---
