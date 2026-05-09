@@ -100,6 +100,13 @@ https://plantdiseaseapp-5qvk8vpqecuwsjkgcc3mqn.streamlit.app/
 
 ---
 
+
+## Application Interface
+
+![UI Screenshot](Images/image1)
+
+
+---
 ## Workflow
 
 1. Upload a plant leaf image  
