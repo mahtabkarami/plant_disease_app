@@ -60,6 +60,7 @@ plant_disease_app/
 ├── images/
 ├── LICENSE
 └── README.md
+|___ .gitignore
 ```
 
 ---
