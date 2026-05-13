@@ -52,7 +52,7 @@ Dataset Link: https://www.kaggle.com/datasets/emmarex/plantdisease
 
 ```bash
 plant_disease_app/
-│
+│__ .gitignore
 ├── app.py
 ├── model_fusion.h5
 ├── labels.json
@@ -60,7 +60,6 @@ plant_disease_app/
 ├── images/
 ├── LICENSE
 └── README.md
-|___ .gitignore
 ```
 
 ---
