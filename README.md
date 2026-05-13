@@ -54,8 +54,8 @@ Dataset Link: https://www.kaggle.com/datasets/emmarex/plantdisease
 plant_disease_app/
 │
 ├── app.py
-├── model/
-├── labels.txt
+├── model_fusion.h5
+├── labels.json
 ├── requirements.txt
 ├── images/
 ├── LICENSE
