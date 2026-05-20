@@ -107,6 +107,8 @@ https://plantdiseaseapp-5qvk8vpqecuwsjkgcc3mqn.streamlit.app/
 ![UI_Screenshot2](images/image2.jpg)
 ![UI_Screenshot3](images/image3.jpg)
 ![UI_Screenshot4](images/image4.jpg)
+![UI_Screenshot5](images/image5.jpg)
+![UI_Screenshot6](images/image6.jpg)
 
 ---
 ## Workflow
